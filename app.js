@@ -13,12 +13,9 @@ const errorMiddleware = require('./middlewares/errors');
 dotenv.config({ path: 'config/config.env' })
 
 // Setup logger
-if (process.env.NODE_ENV === 'DEVELOPMENT') {
+if (process.env.NODE_ENV === 'development') {
     app.use(morgan('dev'));
-} else {
-    app.use(morgan('tiny'));
 }
-
 
 app.use(express.json());
 app.use(bodyParser.urlencoded({ extended: true }));
