@@ -1,0 +1,51 @@
+[
+{
+    "name": "SanDisk Ultra microSDXC 32GB 64GB 128GB 100MB/s UHS-I Memory Car with Aapter",
+    "price": 12.99,
+    "description": "Capture dynamic photos and videos with the SanDisk Ultra PLUS microSD Memory Card on your side. With transfer speeds up to 100MB/s, you can quickly upload photos to your computer for editing.Supports full HD video capture.",
+    "rating": 4.5,
+    "images": [{
+        "public_id": "sanDisk",
+        "url": "https://i.ebayimg.com/images/g/IgwAAOSwjnJkhRyr/s-l1600.png"
+    }],
+    "category": "Electronics",
+    "seller": "Ebay",
+    "stock": 100,
+    "numReviews": 10,
+    "reviews": []
+},
+
+{
+    "name": "Boys Suits Boys Blue Suit Pageboy Prom Wedding Suit Party Formal 5 Piece Suit",
+    "price": 29.99,
+    "description": "This Romario 5 piece Blue suit is perfect for any formal or special occasion and will never go out of fashion.",
+    "rating": 3.5,
+    "images": [{
+        "public_id": "boysSuit",
+        "url": "https://i.ebayimg.com/images/g/YwcAAOSw0O9bIl5d/s-l1600.jpg"
+    }],
+    "category": "Clothes/Shoes",
+    "seller": "Ebay",
+    "stock": 20,
+    "numReviews": 30,
+    "reviews": []
+},
+
+{
+    "name": "Lenovo ThinkPad X1 Nano 13 Ultrabook 2K Intel Core i7-1160G7 16GB RAM 512GB SSD",
+    "price": 29.99,
+    "description": "ULTRAPORTABLE PRODUCTIVITY TOOLS With their light, slim design and long battery life, X Series laptops travel easily, whether to another meeting or another country. Yet with their legendary ThinkPad performance, you sacrifice nothing in",
+    "rating": 4.5,
+    "images": [{
+        "public_id": "lenovo",
+        "url": "https://i.ebayimg.com/images/g/0l0AAOSw-SFkJ1MV/s-l500.jpg"
+    }],
+    "category": "Laptops",
+    "seller": "Ebay",
+    "stock": 14,
+    "numReviews": 23,
+    "reviews": []
+}
+
+]
+
